@@ -41,3 +41,6 @@
     font-weight: normal;
     text-decoration: underline;
 }
+.divposition {
+    position: relative;
+}
